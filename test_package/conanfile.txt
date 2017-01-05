@@ -1,0 +1,5 @@
+[requires]
+automake/1.15@sztomi/testing
+
+[generators]
+virtualenv
